@@ -2,7 +2,7 @@
 
 A real-time stream processsing engine that provides pricing analytics for energy consumption by capturing tariff-switching events.
 
-Downstream Services and End users: This project represents a foundational layer of a large-scale pricing infrastructure that can power key use-cases like dynamic pricing, demand elasticity modeling, and A/B test measurement.
+Downstream services and end users: This project represents a foundational layer of a large-scale pricing infrastructure that can power key use-cases like dynamic pricing, demand elasticity modeling, and A/B test measurement.
 
 ### Tech
 
