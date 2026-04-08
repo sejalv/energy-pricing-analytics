@@ -1,9 +1,8 @@
-# Energy Data Stream Processing
+# Energy Pricing Analytics
 
-A real-time streaming pipeline that captures energy consumption and tariff-switching events via Apache Kafka, 
-stores them in PostgreSQL, and exposes business intelligence and observability dashboards through Grafana.
+A real-time stream processsing engine that provides pricing analytics for energy consumption by capturing tariff-switching events.
 
-This project represents a foundational layer of a large-scale pricing infrastructure that can power key use-cases like dynamic pricing, demand elasticity modeling, and A/B test measurement through downstream services.
+Downstream Services and End users: This project represents a foundational layer of a large-scale pricing infrastructure that can power key use-cases like dynamic pricing, demand elasticity modeling, and A/B test measurement.
 
 ### Tech
 
